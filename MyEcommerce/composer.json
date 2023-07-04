@@ -1,0 +1,7 @@
+{
+    "name": "dell/my-ecommerce",
+    "autoload": {
+        "classmap": ["./"]
+    },
+    "require": {}
+}
